@@ -29,6 +29,12 @@ TRAVAILLER SUR LES PERSONAS
 
 Pour le côté graphique, travailler autour du côté maritime, de la marinière ou encore de la pieuvre (travail en noir et blanc avec une légère touche de couleur)
 
+Réalisation du nouveau logo de la crêperie **MIAM**
+
+![screen n°3](img/Logo.png)
+
+*Faire un logo sur fond transparent pour s'intégrer correctement aux fonds de couleur*
+
 **A garder en tête :**
 ###### UNE BONNE DEMARCHE UTILISATEUR DOIT SE BASER SUR PLUSIEURS ETAPES :
 
