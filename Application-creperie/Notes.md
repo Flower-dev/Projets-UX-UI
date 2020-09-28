@@ -16,6 +16,19 @@ Le site est mal organisé et confus, il y a trop d’informations sur la page d�
 
 TRAVAILLER SUR LES PERSONAS
 
+- Jeunes entre amis (sont toujours équipés d'un smartphone et sont ultra connectés)
+- Les familles avec enfants (sont souvent équipées d'un smartphone mais ne sont pas toujours connectées)
+- Les personnes plus âgées (plus de 55 ans) (ne sont pas toujours équipées d'un smartphone et sont encore moins équipées)
+
+
+![screen n°1](maquette/screen1.jpg)
+
+**Moodboard :**
+
+![screen n°2](Moodboard/Moodboard.png)
+
+Pour le côté graphique, travailler autour du côté maritime, de la marinière ou encore de la pieuvre (travail en noir et blanc avec une légère touche de couleur)
+
 **A garder en tête :**
 ###### UNE BONNE DEMARCHE UTILISATEUR DOIT SE BASER SUR PLUSIEURS ETAPES :
 

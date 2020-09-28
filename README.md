@@ -11,6 +11,30 @@ Ce repository contient plusieurs maquettes de sites web et d'applications mobile
 - Une phase de **PROTOTYPAGE** & de **TEST** donnant vie aux idées tout en les testant afin de les ajuster au mieux pour qu'elles puissent répondre aux attentes des utilisateurs
 - Une phase de **DESIGN D'INTERFACE**
 
+## Application site d'une crêperie
+
+###### Projet en cours de réalisation
+
+**But :** Retravailler l'interface d'une application mobile permettant d'afficher le menu d'une crêperie grâce à un QR Code. REMPLACER UN MENU PAPIER (contexte actuel = Covid19)
+
+**Travail à faire :**
+- Retravailler l'identité graphique de la crêperie
+- Affichage clair et accessible
+
+![screen n°1](Application-creperie/maquette/screen1.jpg)
+
+**Moodboard :**
+
+![screen n°2](Application-creperie/Moodboard/Moodboard.png)
+
+Pour le côté graphique, travailler autour du côté maritime, de la marinière ou encore de la pieuvre (travail en noir et blanc avec une légère touche de couleur)
+
+TRAVAILLER SUR LES PERSONAS
+
+- Jeunes entre amis (sont toujours équipés d'un smartphone et sont ultra connectés)
+- Les familles avec enfants (sont souvent équipées d'un smartphone mais ne sont pas toujours connectées)
+- Les personnes plus âgées (plus de 55 ans) (ne sont pas toujours équipées d'un smartphone et sont encore moins équipées)
+
 ## Application Xtreme
 
 ###### Projet réalisé en septembre 2020
