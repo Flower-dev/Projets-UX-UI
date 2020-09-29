@@ -33,7 +33,11 @@ Réalisation du nouveau logo de la crêperie **MIAM**
 
 ![screen n°3](img/Logo.png)
 
-*Faire un logo sur fond transparent pour s'intégrer correctement aux fonds de couleur*
+
+
+TO DO :
+
+Début de la réalisation de la maquette 
 
 **A garder en tête :**
 ###### UNE BONNE DEMARCHE UTILISATEUR DOIT SE BASER SUR PLUSIEURS ETAPES :
