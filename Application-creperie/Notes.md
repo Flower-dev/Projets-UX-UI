@@ -37,7 +37,9 @@ Réalisation du nouveau logo de la crêperie **MIAM**
 
 TO DO :
 
-Début de la réalisation de la maquette 
+- Début de la réalisation de la maquette (en cours)
+- Faire les liens entre les différents éléments du prototype (en cours)
+- Rédiger un article autour de la démarche mise en place pour réaliser ce projet
 
 **A garder en tête :**
 ###### UNE BONNE DEMARCHE UTILISATEUR DOIT SE BASER SUR PLUSIEURS ETAPES :
