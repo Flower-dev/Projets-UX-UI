@@ -21,7 +21,7 @@ Le prototype de l'application mobile est disponible en format .xd (AdobeXD)
 
 Voici à quoi ressemble l'application :
 
-![screen n°1](Application-creperie/screenshot/screen1.png)
+![screen n°1](Application-creperie/Screenshot/screen1.png)
 
 
 ## Application Xtreme
