@@ -17,18 +17,6 @@ Ce repository contient plusieurs maquettes de sites web et d'applications mobile
 
 **But :** Retravailler l'interface d'une application mobile permettant d'afficher le menu d'une crêperie grâce à un QR Code. REMPLACER UN MENU PAPIER (contexte actuel = Covid19)
 
-**Travail à faire :**
-- Retravailler l'identité graphique de la crêperie
-- Affichage clair et accessible
-
-![screen n°1](Application-creperie/maquette/screen1.jpg)
-
-**Moodboard :**
-
-![screen n°2](Application-creperie/Moodboard/Moodboard.png)
-
-Pour le côté graphique, travailler autour du côté maritime, de la marinière ou encore de la pieuvre (travail en noir et blanc avec une légère touche de couleur)
-
 TRAVAILLER SUR LES PERSONAS
 
 - Jeunes entre amis (sont toujours équipés d'un smartphone et sont ultra connectés)
