@@ -17,11 +17,12 @@ Ce repository contient plusieurs maquettes de sites web et d'applications mobile
 
 **But :** Retravailler l'interface d'une application mobile permettant d'afficher le menu d'une crêperie grâce à un QR Code. REMPLACER UN MENU PAPIER (contexte actuel = Covid19)
 
-TRAVAILLER SUR LES PERSONAS
+Le prototype de l'application mobile est disponible en format .xd (AdobeXD)
 
-- Jeunes entre amis (sont toujours équipés d'un smartphone et sont ultra connectés)
-- Les familles avec enfants (sont souvent équipées d'un smartphone mais ne sont pas toujours connectées)
-- Les personnes plus âgées (plus de 55 ans) (ne sont pas toujours équipées d'un smartphone et sont encore moins équipées)
+Voici à quoi ressemble l'application :
+
+![screen n°1](Application-creperie/screenshot/screen1.png)
+
 
 ## Application Xtreme
 
