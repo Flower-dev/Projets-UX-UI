@@ -34,6 +34,8 @@ Voici à quoi ressemble l'application :
 
 ![screen n°1](Application-creperie/Screenshot/screen1.png)
 
+![screen n°2](Application-creperie/Chartegraphique.png)
+
 ## Application Xtreme
 
 ###### Projet réalisé en septembre 2020
