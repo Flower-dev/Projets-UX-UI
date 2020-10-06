@@ -1,6 +1,6 @@
-# Projets-UX-UI
+# Projets
 
-Ce repository contient plusieurs maquettes de sites web et d'applications mobiles fait avec le logiciel AdobeXD
+Projets personnels me permettant de mettre en pratique mes connaissances en UX/UI et solidifier mes compétences.
 
 
 ###### UNE BONNE DEMARCHE UTILISATEUR DOIT SE BASER SUR PLUSIEURS ETAPES :
