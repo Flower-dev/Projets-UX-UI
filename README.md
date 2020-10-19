@@ -40,7 +40,7 @@ Voici à quoi ressemble l'application :
 
 ###### Projet réalisé en septembre 2020
 
-Prototype d'une application mobile permettant de reserver des stages en pleine nature. Ce prototype est en haute fidélité et est composée d'une page d'accueil, d'un menu, d'une page profil et de plusieurs pages de présentation de stage.
+Dans le cadre d’un cours suivi sur la plateforme Openclassrooms, j’ai réalisé la maquette d’une application mobile fictive : « Xtreme ». La conception de cette maquette m'a permis de comprendre comment prendre en compte des considérations importantes en design d’interface telle que l’usabilité, l’interaction ou le principe d’affordance.
 
 Le prototype de l'application est disponible en format .xd (AdobeXD)
 
